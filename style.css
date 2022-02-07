@@ -21,6 +21,14 @@ h3{
 }
 h4{
     text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    color:white;
+}
+h5{
+    color: white;
+    text-align: center;
+    font-size: 30px;
 }
 
 
@@ -29,7 +37,12 @@ p{
     text-align: justify;
 }
 span{
-    color: rgb(157, 231, 250);
+    color: rgb(116, 223, 250);
+}
+.orange-colour{
+    font-family: fantasy;
+    color: chocolate;
+    font-weight: 300;
 }
 section{
     display: flex;
@@ -83,6 +96,7 @@ section{
 }
 
 
+
 .link-button{
     text-decoration: none;
     background-color: rgb(255, 168, 38);
@@ -121,4 +135,8 @@ footer {
         left: -140px;
         }
         }
+.footer-colour{
+    background-color: black;
+    line-height: 3em;
+}
         
